@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phooveshah.7.wtf/sitemap.xml
